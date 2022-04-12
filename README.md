@@ -22,4 +22,4 @@ It might be useful for some to also change the background color of the ImageView
 ----------------------------------------
 And last but not least, while resizing the window of the GUI, also the buttons will be resized.
 
-![image]
+![image](https://github.com/SaidKaloev/SimpleImageViewer/blob/main/ExplanationPics/ResizeableButtons.png)

@@ -6,4 +6,4 @@ The ExplanationPictures are used for this ReadMe file. In CityPics we find 12 pi
 
 1.Next, Back and Exit Button:
 ----------------------------------------
-![My Remote Image](https://www.dropbox.com/s/sntv6ef1nvm4n47/ResizeableButtons2.png?dl=0)
+![alt text](https://www.dropbox.com/s/sntv6ef1nvm4n47/ResizeableButtons2.png?dl=0)

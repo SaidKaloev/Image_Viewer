@@ -13,5 +13,13 @@ Part of the ImageViewer are a next, back and also an exit button. And to know at
 When reaching the last picture, the next button will be disabled, and the same applies to the forward button, if we are at the first picture.
 
 2.Background_color:
+----------------------------------------
 It might be useful for some to also change the background color of the ImageViewer. Thats why you can choose between 4 kinds of background color in the menubar:
 
+![image](https://github.com/SaidKaloev/SimpleImageViewer/blob/main/ExplanationPics/BackgroundBlack.png)
+
+3.Resizeable buttons:
+----------------------------------------
+And last but not least, while resizing the window of the GUI, also the buttons will be resized.
+
+![image]
